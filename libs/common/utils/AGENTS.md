@@ -1,1 +1,0 @@
-我的nvim配置（来自https://github.com/LazyVim/LazyVim），./libs/common/utils/my-nvim
